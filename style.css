@@ -1,0 +1,8 @@
+body {
+    background: linear-gradient(aqua,rgb(255, 106, 131));
+    font-family: 'Dancing Script', cursive;
+}
+
+#div_1 {
+    box-shadow: 4px 4px 38px #000000;
+}
